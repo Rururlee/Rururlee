@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Ruru.
 #### I am passionate about frontEnd web developement.🤓
-
+<span>Hi there 👋 I'm Ruru.</span>
+<span>I am passionate about frontEnd web developement.🤓</span>
 
 <!--
 **Rururlee/Rururlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
