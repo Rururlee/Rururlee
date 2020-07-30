@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Rururlee/Rururlee/master/assets/github_cover.jpg">
+<img src="https://raw.githubusercontent.com/Rururlee/Rururlee/master/assets/github_cover.gif">
 
 <h3>🔖 About Me</h3>
 
