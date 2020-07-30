@@ -2,21 +2,21 @@
 
 <h3>🔖 About Me</h3>
 
-  👩‍💻   Front-end Developer & (hobbyist)UI Designer
+&nbsp;&nbsp;&nbsp;👩‍💻   Front-end Developer & (hobbyist)UI Designer
 
-  🙌  Love coding and design
+&nbsp;&nbsp;&nbsp;🙌  Love coding and design
 
-  📙  Read,anime & drama enthusiast
+&nbsp;&nbsp;&nbsp;📙  Read,anime & drama enthusiast
 
 
 
 <h3>🔖 Tech Stack</h3>
 
-  🌐  HTML5/Sass/JavaScript/Bootstrap/JQuery/Vue/NPM/Webpack/Tailwind CSS
+&nbsp;&nbsp;&nbsp;🌐  HTML5/Sass/JavaScript/Bootstrap/JQuery/Vue/NPM/Webpack/Tailwind CSS
 
-  ⚙️  Git/GitHub/Markdown
+&nbsp;&nbsp;&nbsp;⚙️  Git/GitHub/Markdown
 
-  🔧  VSCode
+&nbsp;&nbsp;&nbsp;🔧  VSCode
 
-  🖥  Photoshop/Sketch
+&nbsp;&nbsp;&nbsp;🖥  Photoshop/Sketch
 
