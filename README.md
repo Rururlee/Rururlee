@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ruru
+### Hi there 👋 I'm Ruru.
 I am passionate about frontEnd web developement.🤓
 
 <!--
