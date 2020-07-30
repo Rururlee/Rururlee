@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ruru.
+<img src="https://raw.githubusercontent.com/Rururlee/Rururlee/master/assets/github_cover.jpg">
 
 <h3>🔖 About Me</h3>
 
