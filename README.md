@@ -9,7 +9,7 @@ I am passionate about frontEnd web developement.🤓
 ##### Some of the technologies I have worked with
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
