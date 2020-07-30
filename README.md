@@ -16,7 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;⚙️  Git/GitHub/Markdown
 
-&nbsp;&nbsp;&nbsp;🔧  VSCode
+&nbsp;&nbsp;&nbsp;🔧  VS Code
 
 &nbsp;&nbsp;&nbsp;🖥  Photoshop/Sketch
 
