@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Ruru.
-I am passionate about frontEnd web developement.🤓
 
 <h3> 👩‍💻 &nbsp;About Me </h3>
+
+- 👩‍💻   Front-end Developer & (hobbyist)UI Designer
+- 🙌  Love coding and design
+- 📙  Read,anime & drama enthusiast
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
