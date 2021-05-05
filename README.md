@@ -2,7 +2,7 @@
 
 <h3>🔖 About Me</h3>
 
-&nbsp;&nbsp;&nbsp;👩‍💻   Front-end Developer & (hobbyist)UI Designer
+&nbsp;&nbsp;&nbsp;👩‍💻   Front-end Developer
 
 &nbsp;&nbsp;&nbsp;🙌  Love coding and design
 
