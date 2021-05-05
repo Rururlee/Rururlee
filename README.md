@@ -14,9 +14,5 @@
 
 &nbsp;&nbsp;&nbsp;🌐  HTML5/Sass/JavaScript/Bootstrap/JQuery/Vue/NPM/Webpack/Tailwind CSS
 
-&nbsp;&nbsp;&nbsp;⚙️  Git/GitHub/Markdown
-
-&nbsp;&nbsp;&nbsp;🔧  VS Code
-
-&nbsp;&nbsp;&nbsp;🖥  Photoshop/Sketch
+&nbsp;&nbsp;&nbsp;⚙️  Git/GitHub
 
