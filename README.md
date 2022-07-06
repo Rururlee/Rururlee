@@ -4,15 +4,13 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻   Front-end Developer
 
-&nbsp;&nbsp;&nbsp;🙌  Love coding and design
-
 &nbsp;&nbsp;&nbsp;📙  Read,anime & drama enthusiast
 
 
 
 <h3>🔖 Tech Stack</h3>
 
-&nbsp;&nbsp;&nbsp;🌐  HTML5/Sass/JavaScript/Bootstrap/JQuery/Vue/NPM/Webpack/Tailwind CSS
+&nbsp;&nbsp;&nbsp;🌐  Vue3/Vite/Tailwind/Node.js
 
 &nbsp;&nbsp;&nbsp;⚙️  Git/GitHub
 
