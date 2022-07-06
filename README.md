@@ -4,9 +4,6 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻   Front-end Developer
 
-&nbsp;&nbsp;&nbsp;📙  Reading,anime & drama enthusiast
-
-
 
 <h3>🔖 Tech Stack</h3>
 
