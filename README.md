@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;👩‍💻   Front-end Developer
 
-&nbsp;&nbsp;&nbsp;📙  Read,anime & drama enthusiast
+&nbsp;&nbsp;&nbsp;📙  Reading,anime & drama enthusiast
 
 
 
